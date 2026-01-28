@@ -1,0 +1,36 @@
+("Chikungunya"[Mesh] OR chikungunya[tiab] OR CHIKV[tiab])
+AND
+("Mathematical Models"[Mesh] 
+     OR "Models, Theoretical"[Mesh]
+     OR model*[tiab] 
+     OR "mathematical model*"[tiab]
+     OR "transmission model*"[tiab]
+     OR "dynamic model*"[tiab]
+     OR "compartmental model*"[tiab]
+     OR "epidemiological model*"[tiab]
+     OR "deterministic model*"[tiab]
+     OR "stochastic model*"[tiab]
+     OR "agent-based model*"[tiab])
+AND
+("Africa"[Mesh] 
+     OR Africa*[tiab]
+     OR "Sub-Saharan Africa"[tiab]
+     OR Angola[tiab] OR Benin[tiab] OR Botswana[tiab] OR Burkina Faso[tiab]
+     OR Burundi[tiab] OR Cameroon[tiab] OR Chad[tiab] OR Congo[tiab]
+     OR "Côte d'Ivoire"[tiab] OR Djibouti[tiab] OR Egypt[tiab]
+     OR Ethiopia[tiab] OR Gabon[tiab] OR Gambia[tiab] OR Ghana[tiab]
+     OR Kenya[tiab] OR Malawi[tiab] OR Mozambique[tiab]
+     OR Nigeria[tiab] OR Rwanda[tiab] OR Senegal[tiab]
+     OR South Africa[tiab] OR Sudan[tiab] OR Tanzania[tiab]
+     OR Uganda[tiab] OR Zambia[tiab] OR Zimbabwe[tiab])
+("chikungunya" OR "CHIKV") AND ("mathematical model"   OR "transmission model"   OR "compartmental model"   OR "deterministic model"   OR "stochastic model"  OR  "vector-borne model") AND (Africa)
+
+("chikungunya" OR "CHIKV")
+AND
+("mathematical model" 
+ OR "transmission model" 
+ OR "dynamic model" 
+ OR "simulation" 
+ OR "epidemic model")
+("chikungunya" OR "CHIKV") AND ("mathematical model"   OR "transmission model"   OR "compartmental model"   OR "deterministic model"   OR "stochastic model"  OR  "vector-borne model") AND (Africa)
+"chikungunya transmission" "mathematical model"
